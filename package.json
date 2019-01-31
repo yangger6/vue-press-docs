@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-docs",
+  "version": "0.0.1",
+  "description": "vuepress docs",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yangger <i@yangger.cn>",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress-theme-vue": "^1.1.0"
+  }
+}
