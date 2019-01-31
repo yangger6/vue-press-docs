@@ -13,6 +13,7 @@
   "author": "yangger <i@yangger.cn>",
   "license": "ISC",
   "dependencies": {
+    "vuepress": "^0.14.8",
     "vuepress-theme-vue": "^1.1.0"
   }
 }
